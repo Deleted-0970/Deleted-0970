@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there!
+✨ All of my repostories are for school work and personal projects~ Feel free to check them out ✨
+
+🌟 The most interesting repositories I currently have are probably these:
+- [Computer Networking Portfolio](https://github.com/Deleted-0970/Cisco-Networking-Portfolio)
+- [Firewall Configuration Portfolio](https://github.com/Deleted-0970/Cybersecurity-Networking-Portfolio)  
+
+💫 Some projects I've created for fun include:
+- [Ground Roll Calculator](https://github.com/Deleted-0970/Ground-Roll-Calculator)
+- [Kappa Calculator](https://github.com/Deleted-0970/Kappa-Calculator)
+- [ConnectX](https://github.com/Deleted-0970/ConnectX) 
 
 <!--
 **Deleted-0970/Deleted-0970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
