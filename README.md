@@ -1,5 +1,5 @@
 ### Hi there!
-✨ All of my repostories are for school work and personal projects~ Feel free to check them out ✨
+✨ All of my repositories are for school work and personal projects~ Feel free to check them out ✨
 
 🌟 The most interesting repositories I currently have are probably these:
 - [Computer Networking Portfolio](https://github.com/Deleted-0970/Cisco-Networking-Portfolio)
