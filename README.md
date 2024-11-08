@@ -5,7 +5,7 @@
 #### 🌟 The most interesting repositories I currently have are probably these:
 - [Computer Networking Portfolio](https://github.com/Deleted-0970/Cisco-Networking-Portfolio) - Documentation on setting up Cisco Network devices
 - [Firewall Configuration Portfolio](https://github.com/Deleted-0970/Cybersecurity-Networking-Portfolio) - Documentation on setting up various VPN and firewall configurations
-- [Wordplay](https://github.com/wordplaydev/wordplay) - Research project on 
+- [Wordplay](https://github.com/wordplaydev/wordplay) - Research project on interactive typography
 - [3ps](https://github.com/srihariKrishnaswamy/3ps) - Computer vision for underwater remove vehicle
 - [Eterna](https://github.com/cleoreyes/eterna) - Dubhacks '24 project
 - [The State of Our Climate](https://deleted0970.shinyapps.io/final-deliverable-p03-andrewpking/) - Data cleaning and analysis with Kaggle datasets
