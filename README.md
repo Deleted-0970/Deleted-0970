@@ -13,7 +13,8 @@
 #### 💫 Some projects I've created for fun include:
 - [Ground Roll Calculator](https://github.com/Deleted-0970/Ground-Roll-Calculator) - Calculates the groundroll of an RC aircraft
 - [Kappa Calculator](https://github.com/Deleted-0970/Kappa-Calculator) - Calculates kappa lol
-- [ConnectX](https://github.com/Deleted-0970/ConnectX) - Customizable Connect4 
+- [ConnectX](https://github.com/Deleted-0970/ConnectX) - Customizable Connect4
+- [Roblox Sims](https://github.com/Deleted-0970/Roblox-Sims) - Kaiju Cats Terminal Game
 
 <!--
 **Deleted-0970/Deleted-0970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
