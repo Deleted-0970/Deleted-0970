@@ -1,5 +1,7 @@
 ### Hi there!
 
+#### [LeetCode Profile](https://leetcode.com/u/Neighbor1/)
+
 #### ✨ All of my repositories are for school work, personal projects, and clubs ~ Feel free to check them out ✨
 
 #### 🌟 The most interesting repositories I currently have are probably these:
