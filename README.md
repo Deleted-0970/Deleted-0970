@@ -1,16 +1,17 @@
 ### Hi there!
 
-#### [RESUME](https://www.overleaf.com/read/qwjcxbcmzjvr#9df549)
+- [RESUME](https://www.overleaf.com/read/qwjcxbcmzjvr#9df549)
 
-#### [LinkedIn](https://www.linkedin.com/in/derek-l/)
+- [LinkedIn](https://www.linkedin.com/in/derek-l/)
 
-#### [LeetCode Profile](https://leetcode.com/u/Neighbor1/)
+- [LeetCode Profile](https://leetcode.com/u/Neighbor1/)
 
 #### About Me
 Hi, I'm a student at the University of Washington. Interested in solving complex problems in the tech and financial space.
 
 #### Skills
 Languages: Java, C++, Python, Rust, SQL, Golang, C, C++, JavaScript, R, LaTeX, x86 Assembly
+
 Tools/Other: Agile, Jira, PyTorch, PySpark, Git, Docker, Vim, VSCode, React, JUnit, GHAS
 
 #### ✨ All of my repositories are for school work, personal projects, and clubs ~ Feel free to check them out ✨
