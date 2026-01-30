@@ -7,7 +7,9 @@
 - [LeetCode Profile](https://leetcode.com/u/Neighbor1/)
 
 #### About Me
-Hi, I'm a student at the University of Washington. Interested in solving complex problems in the tech and financial space.
+Hi, I'm a student at the University of Washington. Interested in solving complex problems in the tech and financial space. Feel free to reach out at:
+
+deliu [at] uw [dot] edu
 
 #### Skills
 Languages: Java, C++, Python, Rust, SQL, Golang, C, C++, JavaScript, R, LaTeX, x86 Assembly
