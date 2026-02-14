@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Derek! 👋
+# Hey, I'm Derek!
 
 **CS Student @ University of Washington** · Solving complex problems in tech & finance
 
@@ -51,11 +51,3 @@ I'm a student at the University of Washington passionate about building things a
 | 🐱 [Roblox Sims](https://github.com/Deleted-0970/Roblox-Sims) | A terminal-based Kaiju Cats game inspired by Roblox — because why not? | Python · Terminal UI |
 
 ---
-
-<div align="center">
-
-*Thanks for stopping by! Feel free to explore the repos or reach out — I'm always down to chat about tech, planes, or weird side projects.* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=Deleted-0970&color=blue&style=flat-square)
-
-</div>
