@@ -36,6 +36,7 @@ I'm a student at the University of Washington passionate about building things a
 | [3ps](https://github.com/srihariKrishnaswamy/3ps) | Computer vision pipeline for an underwater remotely operated vehicle — detecting and tracking objects beneath the surface | Python · OpenCV · CV |
 | [Eterna](https://github.com/cleoreyes/eterna) | DubHacks '24 hackathon project — built in 24 hours with a team of four! | Hackathon · Collaborative Dev |
 | [The State of Our Climate](https://deleted0970.shinyapps.io/final-deliverable-p03-andrewpking/) | Interactive data visualization and analysis of climate trends using real-world Kaggle datasets | R · Shiny · Data Cleaning |
+| [Semantic Video Searching](https://github.com/cleoreyes/semantic-video-search) | Informatics capstone project, semantically query videos via natural language | Azure · Python · CV |
 
 ---
 
