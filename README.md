@@ -56,9 +56,11 @@ As a back-end engineer, I focused on the data ingestion and processing pipeline 
 
 #### Takeaways
 
-From a **team perspective**, we learned the importance of early user validation — our concept testing surfaced critical usability issues (like confusing terminology and redundant flows) before we invested heavily in building them out. Structured decision-making with domain leads and a consensus-based approach to architectural changes kept the team aligned throughout.
+One of the biggest things our team learned was the value of testing ideas with users early. Our concept testing helped us catch issues like confusing “Sessions” terminology, redundant upload flows, and an awkward clip-trimming experience before we spent too much time building around them.
 
-From an **individual perspective**, this project pushed me to work across the full stack of an AI-powered application, from cloud infrastructure to API design. I gained hands-on experience with Azure's AI ecosystem and learned how to integrate multiple services into a cohesive pipeline. It also strengthened my ability to translate research insights into technical requirements.
+I also learned that team alignment does not come from making every decision sound formal. It came from talking through tradeoffs clearly, listening to the people closest to each part of the project, and making sure everyone understood why we were choosing one direction over another.
+
+Individually, this project gave me more experience building across the backend of an AI-powered application, including cloud services, API design, video processing, and vector search. I became more comfortable turning user research into technical requirements and connecting multiple Azure services into one working pipeline.
 
 #### Next Steps
 
